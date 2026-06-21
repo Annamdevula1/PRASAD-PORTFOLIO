@@ -121,8 +121,8 @@ st.write("""
   ✅ AICTE Internship Program
 
   ✅ AI & Cloud Emerging Technologies Internship
-""")
   ✅ AI Internship 
+""")
 st.subheader("Certifications")
 
 st.write("""
