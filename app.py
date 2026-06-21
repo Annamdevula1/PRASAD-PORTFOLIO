@@ -17,7 +17,8 @@ with col1:
 
 with col2:
     st.title("👨‍💻 Durga Prasad Annamdevula")
-    st.subheader("AI & Cloud Enthusiast | Final Year Student"),("Recent graduate and fresher")
+    st.subheader("AI & Cloud Enthusiast | Final Year Student")
+    st.write("Recent Graduate And Fresher")
 
     st.write("""
     Welcome to my portfolio website.
