@@ -13,7 +13,7 @@ st.set_page_config(
 col1, col2 = st.columns([1, 3])
 
 with col1:
-    st.image("profile.jpeg", width=220)
+    st.image("profile.jpeg",use_container_width=True)
 
 with col2:
     st.title("👨‍💻 Durga Prasad Annamdevula")
