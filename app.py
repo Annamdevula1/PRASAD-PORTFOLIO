@@ -66,7 +66,7 @@ st.header("💻 Skills")
 
 skills_col1, skills_col2 = st.columns(2)
 
-with skills_col 1:
+    with skills_col 1:
     st.write("✅ Python")
     st.write("✅ Machine Learning")
     st.write("✅ Azure")
