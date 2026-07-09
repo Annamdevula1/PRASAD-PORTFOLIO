@@ -51,12 +51,9 @@ and Software Development while contributing to innovative technology solutions.
 Technical Interests:
 • Artificial Intelligence
 • Machine Learning
-• Cloud Computing
+• Cloud Computing basics 
 • Azure
-• AWS
-• Data Analytics
-• NLP
-• Computer Vision
+
 """)
 
 # ----------------------------------
