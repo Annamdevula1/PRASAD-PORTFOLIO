@@ -121,21 +121,18 @@ st.subheader("Internships")
 
 st.write("""
   ✅ Edunet Foundation + IBM SkillsBuild Artificial Intelligence Internship
-
-  ✅ AICTE Internship Program
-
-  ✅ AI & Cloud Emerging Technologies Internship
   
-  ✅ AI Internship 
+  ✅ AI Internship - Edunet Foundation 
+  
 """)
 st.subheader("Certifications")
 
 st.write("""
+
 ✅ IBM SkillsBuild Certificate
 
-✅ AICTE Internship Certificate
 
-✅ Azure Certifications
+✅ Azure Certificate
 
 
 """)
