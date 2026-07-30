@@ -64,11 +64,15 @@ st.header("💻 Skills")
 skills_col1, skills_col2 = st.columns(2)
 
 with skills_col1:
+    
     st.write("✅ Python")
+    
     st.write("✅ Machine Learning")
 
 with skills_col2:
+    
     st.write("✅ Azure")
+    
     st.write("✅ Artificial Intelligence")
 
 # ----------------------------------
@@ -121,6 +125,7 @@ st.write("""
   ✅ AICTE Internship Program
 
   ✅ AI & Cloud Emerging Technologies Internship
+  
   ✅ AI Internship 
 """)
 st.subheader("Certifications")
